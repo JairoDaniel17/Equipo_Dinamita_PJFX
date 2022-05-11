@@ -1,7 +1,8 @@
 module equipo.dinamita {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.sql;
 
-    opens equipo.dinamita to javafx.fxml;
-    exports equipo.dinamita;
+    opens crudjavafx to javafx.fxml;
+    exports crudjavafx;
 }

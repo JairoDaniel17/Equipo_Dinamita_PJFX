@@ -1,4 +1,4 @@
-package equipo.dinamita;
+package crudjavafx;
 
 import java.io.IOException;
 import javafx.fxml.FXML;

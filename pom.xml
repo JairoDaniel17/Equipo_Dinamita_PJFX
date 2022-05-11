@@ -41,7 +41,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.4</version>
                 <configuration>
-                    <mainClass>equipo.dinamita.App</mainClass>
+                    <mainClass>crudjavafx.App</mainClass>
                 </configuration>
                 <executions>
                     <execution>
